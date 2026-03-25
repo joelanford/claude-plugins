@@ -1,0 +1,14 @@
+{
+  "name": "joelanford",
+  "owner": {
+    "name": "joelanford"
+  },
+  "plugins": [
+    {
+      "name": "joe",
+      "source": "./plugins/joe",
+      "description": "Joe's custom skills and commands",
+      "version": "0.1.0"
+    }
+  ]
+}

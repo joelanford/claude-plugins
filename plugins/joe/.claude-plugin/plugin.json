@@ -1,0 +1,8 @@
+{
+  "name": "joe",
+  "description": "Joe's custom skills and commands",
+  "version": "0.1.0",
+  "author": {
+    "name": "joelanford"
+  }
+}
